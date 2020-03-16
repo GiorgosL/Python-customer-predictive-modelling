@@ -6,4 +6,6 @@
 
  - Create visualisations to further understand the data.
 
- - Implement and compare a number of predictive classifiers based on multiple metrics.
+ - Implement a number of predictive classifiers (XGBoost, Linear Regression, Decision Tree).
+ 
+ - Compare their performance based on a number of metrics.
